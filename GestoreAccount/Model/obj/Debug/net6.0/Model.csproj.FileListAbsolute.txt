@@ -1,0 +1,11 @@
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\bin\Debug\net6.0\Model.deps.json
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\bin\Debug\net6.0\Model.dll
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\bin\Debug\net6.0\Model.pdb
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\Model.dll
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\refint\Model.dll
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\Model.pdb
+E:\Scuola\ITIS Leonardo da Vinci\Triennio\Informatica\Linguaggio C#\GestionaleAccountByKava\GestoreAccount\Model\obj\Debug\net6.0\ref\Model.dll

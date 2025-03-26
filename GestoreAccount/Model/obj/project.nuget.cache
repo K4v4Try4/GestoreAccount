@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4lCeb41Fc0=",
+  "success": true,
+  "projectFilePath": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cavel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\cavel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\cavel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

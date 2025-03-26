@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\gestoreaccount\\formaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|solutionrelative:gestoreaccount\\formaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\gestoreaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|solutionrelative:gestoreaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\gestoreaccount\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|solutionrelative:gestoreaccount\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\gestoreaccount\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|solutionrelative:gestoreaccount\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\gestoreaccount\\formgestionale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|solutionrelative:gestoreaccount\\formgestionale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\gestoreaccount\\formgestionale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96895ABD-AD47-48D0-B453-5F7D073A92DA}|GestoreAccount\\GestoreAccount.csproj|solutionrelative:gestoreaccount\\formgestionale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\model\\cifer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|solutionrelative:model\\cifer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\model\\normalizzatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|solutionrelative:model\\normalizzatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\model\\gestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|solutionrelative:model\\gestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|solutionrelative:model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|e:\\scuola\\itis leonardo da vinci\\triennio\\informatica\\linguaggio c#\\gestionaleaccountbykava\\gestoreaccount\\model\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CB449-EF7C-47AC-BACD-FBBA28869267}|Model\\Model.csproj|solutionrelative:model\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddAccount.cs [Progettazione]",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormAddAccount.cs",
+              "RelativeDocumentMoniker": "GestoreAccount\\FormAddAccount.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormAddAccount.cs [Progettazione]",
+              "RelativeToolTip": "GestoreAccount\\FormAddAccount.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.684Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\Program.cs",
+              "RelativeDocumentMoniker": "GestoreAccount\\Program.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\Program.cs",
+              "RelativeToolTip": "GestoreAccount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGestionale.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormGestionale.cs",
+              "RelativeDocumentMoniker": "GestoreAccount\\FormGestionale.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormGestionale.cs",
+              "RelativeToolTip": "GestoreAccount\\FormGestionale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormGestionale.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormGestionale.cs",
+              "RelativeDocumentMoniker": "GestoreAccount\\FormGestionale.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormGestionale.cs",
+              "RelativeToolTip": "GestoreAccount\\FormGestionale.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormLogin.cs",
+              "RelativeDocumentMoniker": "GestoreAccount\\FormLogin.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormLogin.cs",
+              "RelativeToolTip": "GestoreAccount\\FormLogin.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAtwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormLogin.cs",
+              "RelativeDocumentMoniker": "GestoreAccount\\FormLogin.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\GestoreAccount\\FormLogin.cs",
+              "RelativeToolTip": "GestoreAccount\\FormLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "Model\\Account.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Account.cs",
+              "RelativeToolTip": "Model\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Utente.cs",
+              "RelativeDocumentMoniker": "Model\\Utente.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Utente.cs",
+              "RelativeToolTip": "Model\\Utente.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gestore.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Gestore.cs",
+              "RelativeDocumentMoniker": "Model\\Gestore.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Gestore.cs",
+              "RelativeToolTip": "Model\\Gestore.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cifer.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Cifer.cs",
+              "RelativeDocumentMoniker": "Model\\Cifer.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Cifer.cs",
+              "RelativeToolTip": "Model\\Cifer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Normalizzatore.cs",
+              "DocumentMoniker": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Normalizzatore.cs",
+              "RelativeDocumentMoniker": "Model\\Normalizzatore.cs",
+              "ToolTip": "E:\\Scuola\\ITIS Leonardo da Vinci\\Triennio\\Informatica\\Linguaggio C#\\GestionaleAccountByKava\\GestoreAccount\\Model\\Normalizzatore.cs",
+              "RelativeToolTip": "Model\\Normalizzatore.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:20.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
